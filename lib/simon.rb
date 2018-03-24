@@ -97,8 +97,8 @@ private
     @seq = []
   end
 end
-
-if __FILE__ == $PROGRAM_NAME
-  game = Simon.new
-  game.play
-end
+#
+# if __FILE__ == $PROGRAM_NAME
+#   game = Simon.new
+#   game.play
+# end
